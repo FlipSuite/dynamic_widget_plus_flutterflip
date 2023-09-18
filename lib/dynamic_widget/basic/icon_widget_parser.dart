@@ -1,6 +1,6 @@
-import 'package:dynamic_widget_plus/dynamic_widget.dart';
-import 'package:dynamic_widget_plus/dynamic_widget/icons_helper.dart';
-import 'package:dynamic_widget_plus/dynamic_widget/utils.dart';
+import 'package:dynamic_widget_plus_flutterflip/dynamic_widget.dart';
+import 'package:dynamic_widget_plus_flutterflip/dynamic_widget/icons_helper.dart';
+import 'package:dynamic_widget_plus_flutterflip/dynamic_widget/utils.dart';
 import 'package:flutter/material.dart';
 
 class IconWidgetParser extends WidgetParser {

@@ -1,7 +1,7 @@
-name: dynamic_widget_plus
+name: dynamic_widget_plus_flutterflip
 description: A Backend-Driven UI toolkit, build your dynamic UI with json, and the json format is very similar with flutter widget code。
 version: 1.0.0
-homepage: https://github.com/hardik6005/dynamic_widget_plus.git
+homepage: https://github.com/hardik6005/dynamic_widget_plus_flutterflip.git
 
 environment:
   sdk: '>=2.18.0 <4.0.0'

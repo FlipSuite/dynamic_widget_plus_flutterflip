@@ -1,6 +1,6 @@
 import 'dart:convert';
 
-import 'package:dynamic_widget_plus/dynamic_widget.dart';
+import 'package:dynamic_widget_plus_flutterflip/dynamic_widget.dart';
 import 'package:flutter/widgets.dart';
 
 class DynamicWidgetJsonExportor extends StatelessWidget {

@@ -1,4 +1,4 @@
-package com.example.dynamic_widget_plus
+package com.example.dynamic_widget_plus_flutterflip
 
 import io.flutter.embedding.android.FlutterActivity
 

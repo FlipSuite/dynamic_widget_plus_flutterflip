@@ -1,8 +1,8 @@
 import 'dart:async';
 
 import 'package:demo/widget_json.dart';
-import 'package:dynamic_widget_plus/dynamic_widget.dart';
-import 'package:dynamic_widget_plus/dynamic_widget/basic/dynamic_widget_json_exportor.dart';
+import 'package:dynamic_widget_plus_flutterflip/dynamic_widget.dart';
+import 'package:dynamic_widget_plus_flutterflip/dynamic_widget/basic/dynamic_widget_json_exportor.dart';
 import 'package:flutter/material.dart';
 
 void main() => runApp(MyApp());

@@ -1,7 +1,7 @@
 // ignore_for_file: sort_child_properties_last
 
-import 'package:dynamic_widget_plus/dynamic_widget.dart';
-import 'package:dynamic_widget_plus/dynamic_widget/utils.dart';
+import 'package:dynamic_widget_plus_flutterflip/dynamic_widget.dart';
+import 'package:dynamic_widget_plus_flutterflip/dynamic_widget/utils.dart';
 import 'package:flutter/widgets.dart';
 
 class PositionedWidgetParser extends WidgetParser {

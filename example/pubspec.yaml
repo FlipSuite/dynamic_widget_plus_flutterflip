@@ -20,7 +20,7 @@ dependencies:
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.6
 
-  dynamic_widget_plus:
+  dynamic_widget_plus_flutterflip:
     path: ../
 
 dev_dependencies:

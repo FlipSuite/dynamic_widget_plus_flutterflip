@@ -37,7 +37,7 @@ Widget type will be a type property, and widget's properties will be the json pr
 Add this to your package's pubspec.yaml file:
 ```
 dependencies:
-  dynamic_widget_plus: ^1.0.0
+  dynamic_widget_plus_flutterflip: ^1.0.0
 ```
 
 #### 2. Install it
@@ -53,14 +53,14 @@ Alternatively, your editor might support `flutter packages get`. Check the docs 
 #### 3. Import it
 Now in your Dart code, you can use:
 ```dart
-import 'package:dynamic_widget_plus/dynamic_widget.dart';
+import 'package:dynamic_widget_plus_flutterflip/dynamic_widget.dart';
 ```
 
 ## Get started
 You should use `DynamicWidgetBuilder().build` method to covert a json string into flutter widget. It will be time-consuming. so you'd better using `FutureBuilder` to build the UI.
 
 ```dart
-import 'package:dynamic_widget_plus/dynamic_widget.dart';
+import 'package:dynamic_widget_plus_flutterflip/dynamic_widget.dart';
 class PreviewPage extends StatelessWidget {
   final String jsonString;
 
@@ -101,8 +101,8 @@ class PreviewPage extends StatelessWidget {
 
 This is a ElevatedButton widget parser.
 ```dart
-import 'package:dynamic_widget_plus/dynamic_widget/utils.dart';
-import 'package:dynamic_widget_plus/dynamic_widget.dart';
+import 'package:dynamic_widget_plus_flutterflip/dynamic_widget/utils.dart';
+import 'package:dynamic_widget_plus_flutterflip/dynamic_widget.dart';
 import 'package:flutter/material.dart';
 
 class ElevatedButtonParser extends WidgetParser {

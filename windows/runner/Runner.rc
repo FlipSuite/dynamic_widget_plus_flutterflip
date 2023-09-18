@@ -90,12 +90,12 @@ BEGIN
         BLOCK "040904e4"
         BEGIN
             VALUE "CompanyName", "com.example" "\0"
-            VALUE "FileDescription", "dynamic_widget_plus" "\0"
+            VALUE "FileDescription", "dynamic_widget_plus_flutterflip" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
-            VALUE "InternalName", "dynamic_widget_plus" "\0"
+            VALUE "InternalName", "dynamic_widget_plus_flutterflip" "\0"
             VALUE "LegalCopyright", "Copyright (C) 2023 com.example. All rights reserved." "\0"
-            VALUE "OriginalFilename", "dynamic_widget_plus.exe" "\0"
-            VALUE "ProductName", "dynamic_widget_plus" "\0"
+            VALUE "OriginalFilename", "dynamic_widget_plus_flutterflip.exe" "\0"
+            VALUE "ProductName", "dynamic_widget_plus_flutterflip" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END

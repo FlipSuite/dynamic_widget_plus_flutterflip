@@ -1,6 +1,6 @@
-import 'package:dynamic_widget_plus/dynamic_widget.dart';
-import 'package:dynamic_widget_plus/dynamic_widget/common/rounded_rectangle_border_parser.dart';
-import 'package:dynamic_widget_plus/dynamic_widget/utils.dart';
+import 'package:dynamic_widget_plus_flutterflip/dynamic_widget.dart';
+import 'package:dynamic_widget_plus_flutterflip/dynamic_widget/common/rounded_rectangle_border_parser.dart';
+import 'package:dynamic_widget_plus_flutterflip/dynamic_widget/utils.dart';
 import 'package:flutter/material.dart';
 
 class CardParser extends WidgetParser {

@@ -1,6 +1,6 @@
 
-import 'package:dynamic_widget_plus/dynamic_widget.dart';
-import 'package:dynamic_widget_plus/dynamic_widget/drop_cap_text.dart';
+import 'package:dynamic_widget_plus_flutterflip/dynamic_widget.dart';
+import 'package:dynamic_widget_plus_flutterflip/dynamic_widget/drop_cap_text.dart';
 import 'package:flutter/widgets.dart';
 
 TextAlign parseTextAlign(String? textAlignString) {
