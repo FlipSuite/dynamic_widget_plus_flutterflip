@@ -2,7 +2,6 @@
 
 import 'dart:async';
 import 'dart:convert';
-import 'dart:developer';
 
 import 'package:dynamic_widget_plus/dynamic_widget.dart';
 import 'package:dynamic_widget_plus/dynamic_widget/utils.dart';
