@@ -21,7 +21,7 @@ dependencies:
   cupertino_icons: ^1.0.6
 
   dynamic_widget_plus:
-    path: /Users/moweb/Desktop/Hardik/Projects/dynamic_widget/dynamic_widget_plus
+    path: ../
 
 dev_dependencies:
   flutter_test:

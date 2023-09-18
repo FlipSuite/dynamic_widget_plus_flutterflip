@@ -7,7 +7,7 @@ import 'dart:developer';
 import 'package:dynamic_widget_plus/dynamic_widget.dart';
 import 'package:dynamic_widget_plus/dynamic_widget/utils.dart';
 import 'package:flutter/material.dart';
-import 'package:http/http.dart' as http;
+// import 'package:http/http.dart' as http;
 
 class ListViewWidgetParser extends WidgetParser {
   @override
@@ -218,15 +218,15 @@ class _ListViewWidgetState extends State<ListViewWidget> {
 
   doRequest() async {
     // Await the http get response, then decode the json-formatted responce.
-    try {
-      var response = await http.get(Uri.parse(getLoadMoreUrl(
-          _params.loadMoreUrl, _items.length, _params.pageSize)!));
-      if (response.statusCode == 200) {
-        return response.body;
-      }
-    } on Exception catch (e) {
-      log(e.toString());
-    }
+    // try {
+    //   var response = await http.get(Uri.parse(getLoadMoreUrl(
+    //       _params.loadMoreUrl, _items.length, _params.pageSize)!));
+    //   if (response.statusCode == 200) {
+    //     return response.body;
+    //   }
+    // } on Exception catch (e) {
+    //   log(e.toString());
+    // }
     return "";
   }
 }
